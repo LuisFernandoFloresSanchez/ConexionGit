@@ -18,7 +18,7 @@ public class ConexionGit {
         // TODO code application logic here
         
         
-        System.out.println("que onda");
+        System.out.println("Como estas?");
     }
     
 }
